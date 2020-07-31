@@ -14,9 +14,5 @@ A local <em>habitation</em> and a <strong>name</strong>.
 <li>an ordered</li>
 <li>list</li>
 </ol>
-Here is `some code` in the middle of a sentence.
-```
-This is 
-a block
-of code
-```
+<p>Here is how you make<a href="https://www.markdownguide.org/basic-syntax/">a link</a>.</p>
+<img src="https://www.ejin.ru/wp-content/uploads/2019/05/selskaja-krasivaja-priroda.jpg">
