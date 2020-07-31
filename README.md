@@ -1,18 +1,19 @@
-#This is a large heading#
-##This is a smaller heading##
+<h1>This is a large heading</h1>
+<h2>This is a smaller heading</h2>
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet's pen,
 Turns them to shapes and gives to airy nothing,
 A local *habitation* and a **name**.
-
-*This is
-*an unordered
-*list
-
-1.This is 
-1.an ordered
-1.list
-
+<ul>
+<li>This is</li>
+<li>an unordered</li>
+<li>list</li>
+</ul>
+<ol>
+<li>This is</li> 
+<li>an ordered</li>
+<li>list</li>
+</ol>
 Here is `some code` in the middle of a sentence.
 ```
 This is 
